@@ -29,7 +29,7 @@ export const CURRICULUM: Grade[] = [
     name: "Lớp 2",
     nameEn: "Grade 2",
     topics: [
-      { id: "so-hoc-2", name: "Phép cộng, trừ", nameEn: "Addition & Subtraction", description: "Cộng trừ có nhớ, bảng nhân 2, 5. Tìm thành phần chưa biết", descriptionEn: "Addition & subtraction with regrouping, multiplication tables 2, 5. Finding unknown components" },
+      { id: "so-hoc-2", name: "Số và Phép tính", nameEn: "Addition & Subtraction", description: "Cộng trừ có nhớ, bảng nhân 2, 5. Tìm thành phần chưa biết", descriptionEn: "Addition & subtraction with regrouping, multiplication tables 2, 5. Finding unknown components" },
       { id: "hinh-hoc-2", name: "Hình học", nameEn: "Geometry", description: "Điểm, đoạn thẳng, đường cong, đường gấp khúc. Ba điểm thẳng hàng. Hình tứ giác. Khối trụ, khối cầu", descriptionEn: "Points, line segments, curves, broken lines. Collinear points. Quadrilaterals. Cylinders, spheres" },
       { id: "do-luong-2", name: "Đo lường", nameEn: "Measurement", description: "Ki-lô-gam, Lít, Mét, Đề-xi-mét, Mi-li-mét. Xem lịch, giờ, ngày, tháng", descriptionEn: "Kilogram, Liter, Meter, Decimeter, Millimeter. Reading calendar, time, day, month" },
       { id: "thong-ke-xac-suat-2", name: "Thống kê và Xác suất", nameEn: "Statistics and Probability", description: "Thu thập, phân loại, kiểm đếm. Biểu đồ tranh. Khả năng xảy ra (có thể, chắc chắn, không thể)", descriptionEn: "Collecting, classifying, counting. Pictograms. Probability (possible, certain, impossible)" },
@@ -40,7 +40,7 @@ export const CURRICULUM: Grade[] = [
     name: "Lớp 3",
     nameEn: "Grade 3",
     topics: [
-      { id: "so-hoc-3", name: "Nhân chia", nameEn: "Multiplication & Division", description: "Bảng nhân chia 3,4,6,7,8,9. Số có 4, 5 chữ số. Biểu thức số", descriptionEn: "Multiplication & division tables 3,4,6,7,8,9. 4-5 digit numbers. Numerical expressions" },
+      { id: "so-hoc-3", name: "Số và Phép tính", nameEn: "Multiplication & Division", description: "Bảng nhân chia 3,4,6,7,8,9. Số có 4, 5 chữ số. Biểu thức số", descriptionEn: "Multiplication & division tables 3,4,6,7,8,9. 4-5 digit numbers. Numerical expressions" },
       { id: "hinh-hoc-3", name: "Hình học", nameEn: "Geometry", description: "Góc vuông, không vuông. Tam giác, Tứ giác. Chu vi, Diện tích hình chữ nhật, hình vuông", descriptionEn: "Right angles, non-right angles. Triangles, Quadrilaterals. Perimeter, Area of rectangles, squares" },
       { id: "do-luong-3", name: "Đo lường", nameEn: "Measurement", description: "Gam, Mi-li-lít. Nhiệt độ. Tháng năm. Tiền Việt Nam", descriptionEn: "Gram, Milliliter. Temperature. Months, years. Vietnamese Currency" },
       { id: "thong-ke-xac-suat-3", name: "Thống kê và Xác suất", nameEn: "Statistics and Probability", description: "Ghi chép số liệu. Bảng số liệu. Khả năng xảy ra của một sự kiện (1 lần)", descriptionEn: "Recording data. Data tables. Probability of an event (1 time)" },
