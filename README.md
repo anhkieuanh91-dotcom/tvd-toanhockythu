@@ -8,6 +8,19 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/194f9d0a-e4f7-4e87-b00d-85405a637fe5
 
+## Deploy to Vercel
+
+1. **Push your code to GitHub.**
+2. **Connect your GitHub repository to Vercel.**
+3. **Set Environment Variables:**
+   - Go to **Settings** > **Environment Variables** in your Vercel project.
+   - Add `GEMINI_API_KEY` with your API key from [Google AI Studio](https://aistudio.google.com/app/apikey).
+4. **Build Settings:**
+   - Framework Preset: **Vite** (should be auto-detected).
+   - Build Command: `npm run build`.
+   - Output Directory: `dist`.
+5. **Deploy!**
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
